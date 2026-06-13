@@ -1,0 +1,8 @@
+
+
+(1). I added margin-top: 200px(instead of top:0;) to -> (.lb-loader,.lightbox)
+
+(2). I removed background-color for -> (.lightboxOverlay)
+
+
+(3). And color of caption is color of span in the internal css
